@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 100px;
+}
+
+span {
+	border: 5px solid #3e3e3e;
+	border-radius: 16px 0 8px 0;
+}
+
+.circle {
+	width: 40px;
+	height: 40px;
+	background: blue;
+	margin: 40px;
+
+	border-radius: 50%;
+}
